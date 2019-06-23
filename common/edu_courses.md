@@ -32,6 +32,7 @@
 |[Теория вероятностей и математическая статистика (book)](http://booksdescr.org/item/index.php?md5=B4D95803A405B3AA35C91FEA2119AAD6)|Гмурман В.Е.||
 |Теория вероятностей и математическая статистика(book)|Кибзун А.И.||
 |Элементарный курс теории вероятностей и математической статистики (book)|Бородин А.Н.|Хорошо подходит для начинающих|
+|[Mathematics for Machine Learning (book)](https://mml-book.com/)|Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong|We wrote a book on Mathematics for Machine Learning that motivates people to learn mathematical concepts. The book is not intended to cover advanced machine learning techniques because there are already plenty of books doing this. Instead, we aim to provide the necessary mathematical skills to read those other books.|
 
 ## Программирование на Python и алгоритмы
 | Курс                                                         | Авторы курса              | Комментарии                                                  |
